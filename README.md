@@ -10,6 +10,6 @@ This is a C# game using WPF for study purposes.
 	⭕ Done! ⭕
 </h4>
 
-# Autora
+# Author
 <p> Amanda Paim </p>
 <p> Contact: https://www.linkedin.com/in/amanda-rpaim/ / amandarodriguespaim@gmail.com</p>
