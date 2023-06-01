@@ -13,4 +13,3 @@ This is a C# game using WPF for study purposes.
 # Autora
 <p> Amanda Paim </p>
 <p> Contact: https://www.linkedin.com/in/amanda-rpaim/ / amandarodriguespaim@gmail.com</p>
-- [Contact](https://www.linkedin.com/in/amanda-rpaim/)
